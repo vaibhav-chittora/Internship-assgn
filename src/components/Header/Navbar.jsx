@@ -14,7 +14,7 @@ function Navbar() {
 
     return (
         <nav className="navbar navbar-expand-lg border-bottom text-light bg-light " >
-            <div className="container-fluid   ">
+            <div className="container-fluid">
                 <Link className="navbar-brand" href="/"><span className='badge text-success bg-white fs-3'>Ecoyaan</span></Link>
 
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
