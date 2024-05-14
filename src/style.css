@@ -1,0 +1,117 @@
+
+.ezy__careers12 {
+  /* Bootstrap variables */
+  --bs-body-color: #101113;
+  --bs-body-bg: #fff;
+
+  /* easy frontend variables */
+  --ezy-theme-color: rgb(13, 110, 253);
+  --ezy-theme-color-rgb: 13, 110, 253;
+  --ezy-box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+  padding: 60px 0;
+}
+
+@media (min-width: 768px) {
+  .ezy__careers12 {
+    padding: 100px 0;
+  }
+}
+
+/* Gray Block Style */
+.gray .ezy__careers12,
+.ezy__careers12.gray {
+  /* Bootstrap variables */
+  --bs-body-bg: rgb(246, 246, 246);
+}
+
+/* Dark Gray Block Style */
+.dark-gray .ezy__careers12,
+.ezy__careers12.dark-gray {
+  /* Bootstrap variables */
+  --bs-body-color: rgb(241, 241, 241);
+  --bs-body-bg: rgb(30, 39, 53);
+}
+
+/* Dark Block Style */
+.dark .ezy__careers12,
+.ezy__careers12.dark {
+  /* Bootstrap variables */
+  --bs-body-color: rgb(255, 255, 255);
+  --bs-body-bg: rgb(11, 23, 39);
+}
+
+/* heading and sub-heading */
+.ezy__careers12-heading {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 1;
+  text-transform: capitalize;
+}
+.ezy__careers12-sub-heading {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+@media (min-width: 991px) {
+  .ezy__careers12-heading {
+    font-size: 60px;
+  }
+  .ezy__careers12-sub-heading {
+    font-size: 20px;
+  }
+}
+
+.ezy__careers12-btn {
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+  border: 2px solid var(--bs-body-color);
+  font-weight: 500;
+  padding: 7px 15px;
+  border-radius: 50px;
+  min-width: 100px;
+  transition: 0.4s;
+}
+.ezy__careers12-btn:hover,
+.ezy__careers12-btn.active {
+  color: var(--bs-body-bg);
+  background-color: var(--bs-body-color);
+}
+.ezy__careers12-disabled {
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+  border: 2px solid var(--bs-body-color);
+  font-weight: 500;
+  padding: 8px 15px;
+  border-radius: 50px;
+  min-width: 100px;
+  display: inline;
+}
+.ezy__careers12 a {
+  color: var(--bs-body-color);
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 500;
+}
+.ezy__careers12-arrow {
+  transform: rotate(-45deg);
+  transition: 0.4s;
+}
+.ezy__careers12 a:hover .ezy__careers12-arrow {
+  transform: rotate(0deg);
+}
+
+/*  */
+
+
+.ezy__careers12-btn {
+    transition: background-color 0.3s; /* Smooth transition */
+  }
+
+  .ezy__careers12-btn:hover {
+    background-color: #15803D; /* Green color on hover */
+  }
+  
