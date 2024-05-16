@@ -1,6 +1,10 @@
-# Ecoyaan Internship Project
+# [Ecoyaan Internship Project 🔗](https://internship-assgn.vercel.app/)
 
 Welcome to the Ecoyaan Internship Project! This project is built using React with Vite, and it features a fully responsive UI with light and dark theme toggling. Below, you'll find instructions on how to set up and run the project, along with its main features.
+
+
+## [Deployment Link 📌](https://internship-assgn.vercel.app/)
+
 
 
 ## Preview Video
@@ -33,7 +37,7 @@ Feel free to explore the code, make improvements, and contribute to this project
    ```
    npm run dev
    ```
-   This will start the development server, and you can access the app in your browser at `http://localhost:3000`.
+   This will start the development server, and you can access the app in your browser at `http://localhost:3000` OR `http://localhost:5173`.
 
 ## Main Features
 
