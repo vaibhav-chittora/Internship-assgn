@@ -7,10 +7,9 @@ Welcome to the Ecoyaan Internship Project! This project is built using React wit
 
 
 
-## Preview Video
+## Preview Image
 
-[![Ecoyaan Internship UI Preview](https://example.com/path/to/preview-image.png)](https://example.com/path/to/preview-video.mp4)
-
+![Ecoyaan Internship UI Preview](./src/assets/output.png)
 Click the image above to watch a preview video of the Ecoyaan Internship UI.
 
 Feel free to explore the code, make improvements, and contribute to this project. Happy coding! 🌿🌎
@@ -53,3 +52,13 @@ Feel free to explore the code, make improvements, and contribute to this project
 - The UI has been enhanced with modern design elements.
 - Improved typography, spacing, and visual consistency.
 
+
+## Page Routing with React Router
+
+1. **Leveraging React Router:**
+   - The project utilizes React Router to manage navigation between different pages within the application.
+
+   - Routes are defined using `<Route>` components, allowing seamless transitions between views.
+
+2. **Dynamic URL Handling:**
+   - Dynamic route parameters are employed to handle specific URLs (e.g., `ecoyaan/about-us, ecoyaan/careers`).
