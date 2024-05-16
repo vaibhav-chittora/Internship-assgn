@@ -53,7 +53,7 @@ Feel free to explore the code, make improvements, and contribute to this project
 - Improved typography, spacing, and visual consistency.
 
 
-## Page Routing with React Router
+### 4. Page Routing with React Router
 
 1. **Leveraging React Router:**
    - The project utilizes React Router to manage navigation between different pages within the application.
